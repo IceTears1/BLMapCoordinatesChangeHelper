@@ -1,5 +1,7 @@
 # BLMapCoordinatesChangeHelper
 地图坐标转换
+博客地址：https://my.oschina.net/iceTear/blog/876670 
+
 提供BD-09  GCJ-02 WGS84 之间的互相转换
 + (instancetype)shared;
 /**
