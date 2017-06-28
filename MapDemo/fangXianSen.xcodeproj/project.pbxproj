@@ -182,8 +182,7 @@
 		8D75DCD71E8F5621000CE565 /* fangXianSen */ = {
 			isa = PBXGroup;
 			children = (
-				8DC0A93F1E9B7DFA005F5F22 /* BLCoordinatesChangeHelper.h */,
-				8DC0A9401E9B7DFA005F5F22 /* BLCoordinatesChangeHelper.m */,
+				8D9E93BB1F03493800B06921 /* BLCoordinatesChangeHelper */,
 				8D9E93B51F03476000B06921 /* MapVC.h */,
 				8D9E93B61F03476000B06921 /* MapVC.m */,
 				8D9E93B81F03479A00B06921 /* NavigationVC.h */,
@@ -228,6 +227,15 @@
 				8D75DCFF1E8F5621000CE565 /* Info.plist */,
 			);
 			path = fangXianSenUITests;
+			sourceTree = "<group>";
+		};
+		8D9E93BB1F03493800B06921 /* BLCoordinatesChangeHelper */ = {
+			isa = PBXGroup;
+			children = (
+				8DC0A93F1E9B7DFA005F5F22 /* BLCoordinatesChangeHelper.h */,
+				8DC0A9401E9B7DFA005F5F22 /* BLCoordinatesChangeHelper.m */,
+			);
+			name = BLCoordinatesChangeHelper;
 			sourceTree = "<group>";
 		};
 		E1B8DC59AEEBD5DF0E2F0DC9 /* Frameworks */ = {
